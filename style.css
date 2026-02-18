@@ -1,0 +1,138 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+ 
+ .bobosi{
+    display: flex;
+    margin-top : 85px;
+    margin-left: 180px;
+    margin-bottom: 85px;
+    margin-right: 180px;
+    width: 1440px;
+    height: 1024px;
+    background: #FFFFFF;
+    flex-wrap: wrap;
+    gap: 70px;
+      
+     
+
+ }
+
+ .ogil {
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+     
+     
+    border: 1px solid #000000;
+    border-radius: 8px;
+    
+}
+
+.nevara {
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border: 1px solid #000000;
+    border-radius: 8px;
+   
+}
+
+.ogil:nth-child(1){
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+
+}
+
+.ogil:nth-child(2){
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    flex-direction: column;
+     
+
+}
+
+.ogil:nth-child(3){
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    flex-wrap: wrap;
+    align-content: flex-start;
+     
+     
+}
+
+.ogil:nth-child(4){
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    justify-content: space-between;
+  
+}
+
+.ogil:nth-child(5){
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    justify-content:start;
+  
+}
+
+.ogil:nth-child(6){
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    justify-content:end;
+  
+}
+
+.ogil:nth-child(7){
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    justify-content:center;
+  
+}
+
+.ogil:nth-child(8){
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    justify-content: space-between;
+
+}
+
+.ogil:nth-child(9){
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+}
+
+.ogil:nth-child(10){
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    align-items: end;
+
+}
+
+.ogil:nth-child(11){
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    align-items: center;
+
+}
+
+.ogil:nth-child(12){
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    justify-content: space-between;
+
+}
